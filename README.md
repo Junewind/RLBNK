@@ -1,2 +1,2 @@
 # RLBNK
-code for RLBNK paper
+code for our preprint RLBNK submission paper
